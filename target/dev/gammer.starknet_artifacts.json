@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"27o6f9osvcmue","package_name":"gammer","contract_name":"gammer","module_path":"gammer::gammer","artifacts":{"sierra":"gammer_gammer.contract_class.json","casm":"gammer_gammer.compiled_contract_class.json"}}]}
